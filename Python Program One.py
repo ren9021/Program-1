@@ -1,6 +1,4 @@
-Python 3.7.4 (tags/v3.7.4:e09359112e, Jul  8 2019, 19:29:22) [MSC v.1916 32 bit (Intel)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
->>> #***************************************************************
+#***************************************************************
 #
 #  Developer:         Renee White
 #
@@ -8,16 +6,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 #
 #  File Name:         Program1.py
 #
-#  Course:            COSC 1336 Programming Fundamentals I 
-#
-#  Due Date:          9/9/19
-#
-#  Instructor:        Fred Kumi 
-#
-#  Chapter:           Chapters # 1-2
-#
-#  Description:
-#     My First Program With Python
+#  Description:       First Python Program
 #
 #***************************************************************
 
@@ -60,7 +49,6 @@ def main():
 #**************************************************************
 def developerInfo():
     print('Name:     <Put your full name here>')
-    print('Course:   Programming Fundamentals I')
     print('Program:  One')
     print()
     # End of the developerInfo function
