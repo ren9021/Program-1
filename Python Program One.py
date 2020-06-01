@@ -48,7 +48,7 @@ def main():
 #
 #**************************************************************
 def developerInfo():
-    print('Name:     <Put your full name here>')
+    print('Name:     Renee White')
     print('Program:  One')
     print()
     # End of the developerInfo function
